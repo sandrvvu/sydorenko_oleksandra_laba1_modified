@@ -1,0 +1,15 @@
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\laba1.exe
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\laba1.deps.json
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\laba1.runtimeconfig.json
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\laba1.runtimeconfig.dev.json
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\laba1.dll
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\laba1.pdb
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.csproj.AssemblyReference.cache
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.AssemblyInfoInputs.cache
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.AssemblyInfo.cs
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.csproj.CoreCompileInputs.cache
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.dll
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.pdb
+C:\kpii\programing\лабороторні\лаба1\laba1\obj\Debug\netcoreapp3.1\laba1.genruntimeconfig.cache
+C:\kpii\programing\лабороторні\лаба1\laba1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
